@@ -1,0 +1,1 @@
+# Sistema_Busca_De_Documentos_Com_Embeddings_e_Gemini_API
